@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "mikelopster-test-3"
+location: "asia-southeast1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "mikelopster-test-2"
+      cloudSql:
+        instanceId: "mikelopster-test-1"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
