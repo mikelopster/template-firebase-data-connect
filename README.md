@@ -2,7 +2,7 @@
 
 Code ชุดนี้เป็นส่วนหนึ่งของบทความ "ลอง Firebase Data Connect"
 
-[![firebase-data-connect](https://mikelopster.dev/img/thumbnail-blogs/firebase-data-connect.webp)](https://mikelopster.dev/img/thumbnail-blogs/firebase-data-connect.webp)
+[![firebase-data-connect](https://mikelopster.dev/img/thumbnail-blogs/firebase-data-connect.webp)](https://mikelopster.dev/posts/firebase-data-connect/)
 
 https://mikelopster.dev/posts/firebase-data-connect/
 
